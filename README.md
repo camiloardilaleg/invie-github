@@ -3,4 +3,4 @@ En este repositorio se codifica todos los comandos y ejemplos para el aprendizaj
 
 Curso impartido por Leonidas en Platzi
 
-hago este camvbio
+hago este cambio
